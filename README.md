@@ -1,10 +1,8 @@
-
-
-https://github.com/user-attachments/assets/d4c0b383-b96b-4bbc-bc2f-fd4ab0c71dcc
-
 # Lunar Lander: what makes an AI land well?
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ryeggouti/lunar-lander-rl/blob/main/lunar_lander.ipynb)
+
+https://github.com/user-attachments/assets/d4c0b383-b96b-4bbc-bc2f-fd4ab0c71dcc
 
 **Part 1 of my reinforcement learning project.** I trained an AI to land a spacecraft on the Moon using only rewards, then changed the rules to see what its behaviour really depends on. Part 2 is [Stork Flight](https://github.com/ryeggouti/stork-flight), where I built my own environment and game.
 
