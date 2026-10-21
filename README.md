@@ -61,6 +61,18 @@ The result held in every run.
 
 The AI that never felt wind crashed 80% of the time when it appeared. The wind-trained AI crashed less but still struggled, and it only had half the practice, so this comparison isn't completely fair.
 
+## Videos
+
+| | |
+|---|---|
+| Random button presses | [random.mp4](videos/random.mp4) |
+| Trained AI | [trained.mp4](videos/trained.mp4) |
+| Learning: 100k → 300k → 500k → 1M steps | [100k](videos/lander_100k.mp4) · [300k](videos/lander_300k.mp4) · [500k](videos/lander_500k.mp4) · [1M](videos/lander_1000k.mp4) |
+| Free fuel | [exp_free_fuel.mp4](videos/exp_free_fuel.mp4) |
+| No crash penalty | [exp_no_crash.mp4](videos/exp_no_crash.mp4) |
+| Normal AI in wind | [exp_normal_in_wind.mp4](videos/exp_normal_in_wind.mp4) |
+| Wind-trained AI in wind | [exp_wind_trained.mp4](videos/exp_wind_trained.mp4) |
+
 ## Limits
 
 - 20 test landings per AI is a small sample.
@@ -78,6 +90,7 @@ Open the notebook in Colab with the badge at the top and run the cells in order.
 - `seeds.csv`: the crash-penalty experiment repeated with 3 seeds
 - `lander_final.zip`: the trained AI after 1 million steps (load it with `PPO.load("lander_final")`)
 - `videos/`: recordings of the landings
+
 ---
 
 I wrote this project with help from an AI coding assistant. The questions, the experiments and the conclusions are mine.
