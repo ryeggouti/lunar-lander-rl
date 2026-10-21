@@ -1,3 +1,7 @@
+
+
+https://github.com/user-attachments/assets/d4c0b383-b96b-4bbc-bc2f-fd4ab0c71dcc
+
 # Lunar Lander: what makes an AI land well?
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ryeggouti/lunar-lander-rl/blob/main/lunar_lander.ipynb)
@@ -74,6 +78,8 @@ Open the notebook in Colab with the badge at the top and run the cells in order.
 - `lunar_lander.ipynb`: training, experiments, seed tests and videos
 - `experiments.csv`: results of the rule-change experiments
 - `seeds.csv`: the crash-penalty experiment repeated with 3 seeds
+- `lander_final.zip`: the trained AI after 1 million steps (load it with `PPO.load("lander_final")`)
+- `videos/`: recordings of the landings
 ---
 
 I wrote this project with help from an AI coding assistant. The questions, the experiments and the conclusions are mine.
