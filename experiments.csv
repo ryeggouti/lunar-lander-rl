@@ -1,0 +1,7 @@
+,score,landed %,crashed %,timeout %,seconds,main fires,side fires
+normal (500k),176.0,85.0,5.0,10.0,12.9,324.0,268.0
+normal (1M),255.0,100.0,0.0,0.0,7.1,171.0,136.0
+free fuel (500k),86.0,55.0,0.0,45.0,18.4,494.0,328.0
+no crash penalty (500k),271.0,100.0,0.0,0.0,5.5,127.0,27.0
+"normal 1M AI, in wind",23.0,20.0,80.0,0.0,6.9,168.0,168.0
+"wind-trained (500k), in wind",12.0,40.0,35.0,25.0,15.5,394.0,272.0

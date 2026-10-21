@@ -1,0 +1,7 @@
+,setup,seed,score,landed %,crashed %,timeout %,seconds,main fires,side fires
+0,normal,0,176,85,5,10,12.9,324,268
+1,no crash penalty,0,271,100,0,0,5.5,127,27
+2,normal,1,192,60,0,40,13.7,195,302
+3,no crash penalty,1,256,100,0,0,7.2,181,25
+4,normal,2,196,80,0,20,12.1,242,270
+5,no crash penalty,2,262,100,0,0,6.3,145,112
