@@ -72,7 +72,8 @@ Open the notebook in Colab with the badge at the top and run the cells in order.
 ## Files
 
 - `lunar_lander.ipynb`: training, experiments, seed tests and videos
-
+- `experiments.csv`: results of the rule-change experiments
+- `seeds.csv`: the crash-penalty experiment repeated with 3 seeds
 ---
 
 I wrote this project with help from an AI coding assistant. The questions, the experiments and the conclusions are mine.
