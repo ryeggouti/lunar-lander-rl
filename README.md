@@ -4,7 +4,7 @@
 
 https://github.com/user-attachments/assets/d4c0b383-b96b-4bbc-bc2f-fd4ab0c71dcc
 
-**Part 1 of my reinforcement learning project.** I trained an AI to land a spacecraft on the Moon using only rewards, then changed the rules to see what its behaviour really depends on. Part 2 is [Stork Flight](https://github.com/ryeggouti/stork-flight), where I built my own environment and game.
+**Part 1 of my reinforcement learning project.** I trained an AI to land a spacecraft on the Moon using only rewards, then changed the rules to see what its behaviour really depends on. Part 2 is [Stork Flight](https://github.com/ryeggouti/stork-flight), where I built my own environment and game, and Part 3 is the [Stork Flight app](https://github.com/ryeggouti/stork-flight-app), where I turned that game into an Android app with online 1v1.
 
 The AI never sees the rules written down. It gets a score after every move (points for landing gently, a penalty for crashing, a small cost for every engine burn) and learns, by trial and error, what earns the most.
 
